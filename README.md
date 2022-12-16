@@ -17,3 +17,12 @@ A hardware dashboard for your computer.
 ### Build
 
 -> build_.bat
+
+
+
+### To-do
+
+The Python client will be replaced by:
+
+- Windows: .NET app
+- macOS: SwiftUI app
